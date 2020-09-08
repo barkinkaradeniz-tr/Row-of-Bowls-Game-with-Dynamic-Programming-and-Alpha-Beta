@@ -4,4 +4,5 @@ Row of Bowls game is played for both sides by computer. Both sides chooses alway
 
 ## Execute
 The main method is in "/src/RowOfBowls.java".
+
 The test method is in "/src/RowOfBowlsTest.java".
